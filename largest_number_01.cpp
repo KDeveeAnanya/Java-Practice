@@ -24,7 +24,7 @@ class largest_number_01
 };
         int main()
         {
-            vector<int> arr={69,106,109,2,4};
+            vector<int> arr={45,3,78,90};
             largest_number_01 obj;
             int ans=obj.largest(arr);
             cout<<"Largest number in the array: "<<ans<<endl;
